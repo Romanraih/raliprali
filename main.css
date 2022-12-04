@@ -1,0 +1,14 @@
+h1{
+    color: rgb(225, 255, 0);
+}
+body{
+    background-color: gray;
+    background-image: url(https://images.unsplash.com/photo-1617469165786-8007eda3caa7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8a2F0aG1hbmR1fGVufDB8fDB8fA%3D%3D&w=1000&q=80);
+    background-clip: url;
+    text-align: center;
+    
+}
+p{
+  font-size: large;
+}
+
